@@ -6,7 +6,7 @@
       - What are MagDown and MagUp? See [datasets](https://gitlab.cern.ch/lasalle/rad-lb02lbgammabr-obs/lb02lbgammabr/-/tree/master/data?ref_type=heads)
 
 In-progress:
-* Ganga job submission for spacal-simulation. I have mainly a question on files to include.
+* Ganga job submission for spacal-simulation. Could do "Hello World!" ganga script but I get job failed for when including files. I have mainly a question on files to include.
 * Redo the ECAL simulation with Dtopipipi or maybe some other process? Understand what has been included and what elements need to be worked on.
 * Foundation Models - Opportunities and Risks... 
 
