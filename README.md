@@ -1,5 +1,9 @@
 # LaSalle-Status-Reports
 
+## October 28, 2024
+* Wrapped up Foundation Models report
+* Wrapped up First tutorial - testing particle guns with the sSim.
+* Scale up the plot production from Alexia's code.
 ## October 25, 2024
 * VELO+ECAL Workflow Fundamentals and older version of Gauss. See [Tutorial](https://gitlab.cern.ch/ciperez/spacal-simulation/-/tree/master/documentation/Tutorial_v3.0?ref_type=heads)
 * Plots prototyping. [Checked cuts](https://gitlab.cern.ch/lasalle/rad-lb02lbgammabr-obs/lb02lbgammabr) implemented by Alexia and also scaling up the plotting - making it more automated for reproducing them when necessary.
